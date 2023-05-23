@@ -1,0 +1,9 @@
+body{
+    background-image: url(gz.webp);
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    color: rgb(181, 65, 26);
+    padding: 30px;
+}
